@@ -1,0 +1,60 @@
+.bImage {
+    width: 230px;
+    border: 4px solid #641220;
+    text-align: center;
+    padding: 15px;
+}
+
+.aImage {
+    width: 90%;
+    height: auto;
+    border-top: solid 2px brown;
+    border-bottom: solid 2px brown;
+    padding: 10px;
+    text-align: center;
+
+}
+.botao {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    font-size: 1.4em;
+}
+
+.apresentacao {
+    margin-bottom: 40px;
+}
+
+p {
+    text-align: center;
+    font-size: 1.3em; 
+    margin-bottom: 60px;
+}
+
+a {
+    font-size: 1.2em;
+}
+
+.align {
+    text-align: center;
+}
+
+h1 {
+    margin-top: 80px;
+    font-size: 3em;
+    line-height: 40px;
+}
+
+h2 {
+    margin-bottom: 10px;
+    font-size: 3em;
+}
+
+h3, h4 {
+    text-align: center;
+    font-size: 2em;
+    margin-top: 40px;
+
+
+}
+
+

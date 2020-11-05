@@ -1,0 +1,21 @@
+a {
+  color: white;
+  text-decoration: none;
+  padding: 7px;
+
+}
+  
+a:hover {
+    color: brown;
+    text-decoration: none;
+    font-weight: bold;
+  }
+
+  #logo {
+    margin: 0;
+    border: none;
+  }
+  
+  nav, Image {
+    text-align: center; 
+  }
